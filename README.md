@@ -1,2 +1,2 @@
-# codeplex_archive_netmf
+# Codeplex Archived Files about NETMF projects
 Archived codeplex projects
