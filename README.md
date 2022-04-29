@@ -8,8 +8,8 @@ contact : valon.hoti@gmail.com
 
 No |  Type Of | Name          | Description  | Link
 ---|--------- |---------------|--------------|--------------
-1  | 4.3      | MicroLinq     | Linq on mbed .NET Micro | https://github.com/valoni/codeplex_archive_netmf/blob/main/MicroLinq.zip
-2  | 4.3      | Micro DB      | Linq on mbed .NET Micro | https://github.com/valoni/codeplex_archive_netmf/blob/main/mu.zip
-3  | 4.3      | MicroContainer| Linq on mbed .NET Micro | https://github.com/valoni/codeplex_archive_netmf/blob/main/MicroContainer.zip
+1  | 4.3      | MicroLinq     | Micro Linq on .NET Micro | https://github.com/valoni/codeplex_archive_netmf/blob/main/MicroLinq.zip
+2  | 4.3      | Micro DB      | Micro DB on .NET Micro | https://github.com/valoni/codeplex_archive_netmf/blob/main/mu.zip
+3  | 4.3      | MicroContainer| Micro Container .NET Micro | https://github.com/valoni/codeplex_archive_netmf/blob/main/MicroContainer.zip
 
 
