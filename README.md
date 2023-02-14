@@ -3,7 +3,7 @@ Archived codeplex projects
 
 
 Examples and Drivers for .NET MicroFramework 4.3/4.4
-re-created and collected from Valon Hoti / Prishtine,KOSOVE 
+re-collected from CodePlex by Valon Hoti / Prishtine,KOSOVE 
 contact : valon.hoti@gmail.com
 
 No |  Type Of | Name          | Description  | Link
